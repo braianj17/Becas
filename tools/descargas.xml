@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<categorias>
+	<categoria>
+		<nombre value="Institucional">Institucional</nombre>
+		<links>
+			<link id="***" url="reglamentospdf/PDUVP.pdf">Plan de Desarrollo UVP 2007 - 2012</link>
+			<link id="1" url="reglamentospdf/EstatutoOrganico.pdf">Estatuto Organico</link>			
+			<link id="2" url="reglamentospdf/organoscolegiados.pdf">Reglamento de Órganos Colegiados</link>
+			<link id="3" url="reglamentospdf/3.pdf">Reglamento de las Reformas a la Normatividad</link>
+			<link id="4" url="reglamentospdf/4.pdf">Reglamento de Uso de los Emblemas Oficiales</link>
+			<link id="5" url="reglamentospdf/5.pdf">Reglamento para la Creación, Actualización y Mejora de Procedimientos Administrativos</link>
+			<link id="6" url="reglamentospdf/6.pdf">Reglamento de Planeación</link>
+			<link id="7" url="reglamentospdf/7.pdf">Reglamento de Investigación</link>
+			<link id="8" url="reglamentospdf/8.pdf">Reglamento para la Aprobación de Programas Institucionales</link>*
+			<link id="9" url="reglamentospdf/9.pdf">Reglamento Preventivo y de Emergencia</link>*
+			<link id="10" url="reglamentospdf/10.pdf">Reglamento sobre Consumo de Tabaco</link>
+		</links>
+	</categoria>
+	<categoria>
+		<nombre value="personal">personal</nombre>
+		<links>
+			<link id="11" url="reglamentospdf/11.pdf">Reglamento General de Personal</link>
+			<link id="12" url="reglamentospdf/12.pdf">Reglamento del Docente</link>			
+			<link id="13" url="eglamentospdf/13.pdf">Reglamento de Préstamos al Personal</link>
+		</links>
+	</categoria>
+	<categoria>
+		<nombre value="Alumnos">Alumnos</nombre>
+		<links>
+			<link id="14" url="reglamentospdf/14.pdf">Reglamento de Titulación</link>
+			<link id="15" url="reglamentospdf/15.pdf">Reglamento de Alumnos de Postgrado</link>
+			<link id="16" url="reglamentospdf/16.pdf">Reglamento General de Alumnos de Licenciaturas (P y T)</link>
+			<link id="17" url="reglamentospdf/17.pdf">Reglamento General de Alumnos de Licenciaturas de Sistema Abierto</link>
+			<link id="18" url="reglamentospdf/18.pdf">Reglamento General de Alumnos de Bachillerato</link>
+			<link id="19" url="reglamentospdf/19.pdf">Reglamento de Deportes y Competencias Deportivas</link>
+			<link id="20" url="reglamentospdf/20.pdf">Reglamento de Viajes y Visitas de Estudio</link>
+			<link id="21" url="reglamentospdf/21.pdf">Reglamento del Consejo Estudiantil Universitario</link>
+			<link id="22" url="reglamentospdf/22.pdf">Reglamento de la Sociedad de Egresados</link>
+		</links>
+	</categoria>
+	<categoria>
+		<nombre value="Laboratorios">Laboratorios</nombre>
+		<links>
+			<link id="23" url="reglamentospdf/23.pdf">Reglamento del Taller de Serigrafía</link>
+			<link id="24" url="reglamentospdf/24.pdf">Reglamento de los Laboratorios de Cómputo</link>
+			<link id="25" url="reglamentospdf/25.pdf">Reglamento de los Laboratorios de Gastronomía</link>
+			<link id="26" url="reglamentospdf/26.pdf">Reglamento del Laboratorio de Fotografía y del Set Fotográfico</link>
+			<link id="27" url="reglamentospdf/27.pdf">Reglamento del CAI</link>
+			<link id="28" url="reglamentospdf/28.pdf">Reglamento del Taller de Aerógrafo</link>
+			<link id="29" url="reglamentospdf/29.pdf">Reglamento de la Cámara de Gessell</link>
+			<link id="30" url="reglamentospdf/30.pdf">Reglamento de Set de Televisión y Cabina de Radio</link>
+			<link id="31" url="reglamentospdf/31.pdf">Reglamento de las Aulas Virtuales/Multimedia y Medios Didácticos</link>
+			<link id="32" url="reglamentospdf/32.pdf">Reglamento del Laboratorio de Electrónica</link>
+			<link id="33" url="reglamentospdf/33.pdf">Reglamento de Laboratorio de Ingeniería Industrial</link>
+			<link id="34" url="reglamentospdf/34.pdf">Reglamento de Laboratorio de Redes</link>
+			<link id="35" url="reglamentospdf/35.pdf">Reglamento del Taller de Mantenimiento de PC's</link>
+		</links>
+	</categoria>
+	<categoria>
+		<nombre value="Servicios">Servicios</nombre>
+		<links>
+			<link id="36" url="reglamentospdf/36.pdf">Reglamento de Biblioteca</link>
+			<link id="37" url="reglamentospdf/37.pdf">Reglamento de Servicios Médicos</link>
+			<link id="38" url="reglamentospdf/38.pdf">Reglamento de uso del Aula Magna Cuetlaxcoapan y del Auditorio Kukulcán</link>
+			<link id="39" url="reglamentospdf/39.pdf">Reglamento de Estacionamientos</link>
+			<link id="40" url="reglamentospdf/40.pdf">Reglamento de Mantenimiento y de Servicios</link>
+			<link id="41" url="reglamentospdf/41.pdf">Reglamento de Difusión Cultural</link>
+			<link id="42" url="reglamentospdf/42.pdf">Reglamento de Extensión Universitaria</link>
+			<link id="43" url="reglamentospdf/43.pdf">Reglamento de Educación Continua</link>
+			<link id="44" url="reglamentospdf/44.pdf">Reglamento para Elaborar Documentos de Acreditación de Asistencia a Eventos</link>
+			<link id="45" url="reglamentospdf/45.pdf">Políticas de Participación en el Intercambio Estudiantil</link>
+			<link id="46" url="reglamentospdf/46.pdf">Reglas de Entrada</link>
+			<link id="47" url="reglamentospdf/47.pdf">Reglamento del Bufete Jurídico</link>
+			<link id="48" url="reglamentospdf/48.pdf">Reglamento del Bufete Contable de la Universidad del Valle de Puebla</link>
+			<link id="49" url="reglamentospdf/49.pdf">Reglamento del Almacén de Gastronomía</link>
+			<link id="50" url="reglamentospdf/50.pdf">Reglamento del CAPS</link>
+		</links>
+	</categoria>
+</categorias>
+
+
+
+
+
+
+
+
+
+
+
+
+

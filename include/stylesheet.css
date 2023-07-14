@@ -1,0 +1,24 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #2D2D37;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+h1{
+	color:#FFFFFF;
+	font-weight:normal;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:24px;
+}
+
+a{color:black; text-decoration:none; font-size: 17px;}
+a:hover{color:red;}
+/*a:visited{color:blue; text-decoration:none;}*/
+a:active{color:blue; text-decoration:none;}
+
+#nuevo {color:white; text-decoration:underline; font-size: 22px; text-align: right; cursor: pointer;}
+#nuevo:hover{color:#f57100; cursor: pointer;}
+#nuevo:active{color:#f57100; text-decoration:none; cursor: pointer;}

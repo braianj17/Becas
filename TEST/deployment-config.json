@@ -1,0 +1,9 @@
+{
+  "type": "sftp",
+  "host": "64.250.116.139",
+  "username": "root",
+  "password": "515t3m45.2018",
+  "port": 2021,
+  "remotePath": "/home/aspaa/web/aspaa.uvp.mx/public_html/becas/TEST",
+  "uploadOnSave": true
+}

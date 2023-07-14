@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+	<categoria id="Categoria1">
+		<article>
+		<title>titulo1</title>
+		<description>desc1</description>
+		<url>url1</url>
+		<urltext>url uno</urltext>
+		</article>
+		<article>
+		<title>titulo3</title>
+		<description>desc3</description>
+		<url>url3</url>
+		<urltext>url tres</urltext>
+		</article>
+	</categoria>
+	<categoria id="Categoria2">
+		<article>
+		<title>titulo2</title>
+		<description>desc2</description>
+		<url>url2</url>
+		<urltext>url dos</urltext>
+		</article>
+	</categoria>
+</root>

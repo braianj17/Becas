@@ -1,0 +1,10 @@
+<?
+session_start();
+$SECTION_ID="2";
+if(isset($_POST["question_id"])){
+	$_SESSION["positions"][$_SESSION["account"]][$SECTION_ID][$_POST["question_id"]]["x"]=$_POST["x_coord"];
+	$_SESSION["positions"][$_SESSION["account"]][$SECTION_ID][$_POST["question_id"]]["y"]=$_POST["y_coord"];	
+	$_SESSION["positions"][$_SESSION["account"]][$SECTION_ID][$_POST["question_id"]]["width"]=$_POST["a_width"];
+	$_SESSION["positions"][$_SESSION["account"]][$SECTION_ID][$_POST["question_id"]]["height"]=$_POST["a_height"];		
+}
+?>
